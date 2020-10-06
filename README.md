@@ -1,4 +1,8 @@
-![alt text >>](https://github.com/sebmatecho/Regresion-Aplicada/blob/main/logo-los-libertadores-footer.png?raw=true)
+img[alt$=">"] {
+  float: right;
+}
+
+![alt text >](https://github.com/sebmatecho/Regresion-Aplicada/blob/main/logo-los-libertadores-footer.png?raw=true)
 
 # Regresión Aplicada
 
