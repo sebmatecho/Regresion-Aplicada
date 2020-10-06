@@ -4,7 +4,7 @@
 
 ## [Prof. Sébastien Lozano Forero](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/)  (*slozanof@libertadores.edu.co*)
 
-- [Contenidos del espacio académico](#Contenidos del espacio académico)
+- [Contenidos del espacio académico](#heading)
   * [Sílabo](#sub-heading)    
   * [Guía de Aprendizaje](#sub-heading)    
   * [Notebooks para las clases](#sub-heading)    
