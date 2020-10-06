@@ -1,9 +1,14 @@
 ![alt text >](https://github.com/sebmatecho/Regresion-Aplicada/blob/main/logo.png?raw=true)
 
-# Regresión Aplicada
+# Regresión Aplicada [EEAMV; 2020-4]
 
 ## [Prof. Sébastien Lozano Forero](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/)  (*slozanof@libertadores.edu.co*)
 
+### Noviembre, 2020.
+
+Estimadas(os) estudiantes, 
+
+Sean bienvenidos al repositorio oficial de GitHub de la versión 2020-4 del espacio académico **Regresión Aplicada** de la *Especialización en Estadística Aplicada*, en su metodología virtual, de la **Fundación Universitaria Los Libertadores**. 
 - [Contenidos del espacio académico](#contenidos-del-espacio-académico)
   * [Sílabo](#sílabo)    
   * [Guía de Aprendizaje](#guía-de-aprendizaje)    
