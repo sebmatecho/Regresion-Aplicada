@@ -2,6 +2,8 @@
 
 ## Prof. Sébastien Lozano Forero (*slozanof@libertadores.edu.co*)
 
+## (Perfil en Linkedin, [aquí](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/))
+
 Este video debe ser escuchado **inmediatamente** [click aquí](https://www.youtube.com/watch?v=H6Cb3oeHjqc&ab_channel=TheSoulflytriber)
 
 Inline-style: 
