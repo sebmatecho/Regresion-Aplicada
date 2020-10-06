@@ -20,4 +20,3 @@ iii. Notebooks para las clases
 iv. Repositorio de proyectos
 
 v. Recursos adicionales del espacio. 
-
