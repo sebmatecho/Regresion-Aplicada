@@ -5,7 +5,7 @@
 
 
 <img
-src=“main/logo-los-libertadores-footer.png”
+src='logo-los-libertadores-footer.png'
 raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;”
