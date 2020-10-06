@@ -4,12 +4,12 @@
 
 ## [Prof. Sébastien Lozano Forero](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/)  (*slozanof@libertadores.edu.co*)
 
-- [Contenidos del espacio académico](#Contenidosdelespacioacadémico)
+- [Contenidos del espacio académico](#contenidos-del-espacio-académico)
   * [Sílabo](#sílabo)    
   * [Guía de Aprendizaje](#guia-de-aprendizaje)    
   * [Notebooks para las clases](#notebooks)    
   * [Repositorio de proyectos](#repositorio-de-proyectos)    
-  * [ecursos adicionales](#recursos-adicionales)    
+  * [Recursos adicionales](#recursos-adicionales)    
 - [Dogma de aprendizaje](#heading-1)
   * [Sub-heading](#sub-heading-1)
 - [Código de Ética](#heading-2)
@@ -33,4 +33,4 @@ A continuación, una breve descripción de los contenidos aquí alojados:
 ## Repositorio de proyectos
 ## Recursos adicionales
 
-}
+
