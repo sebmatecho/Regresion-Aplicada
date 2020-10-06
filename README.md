@@ -15,11 +15,11 @@ Sean bienvenidos al repositorio oficial de GitHub de la versión 2020-4 del espa
   [Guía de Aprendizaje](#guía-de-aprendizaje)    
   [Notebooks para las clases](#notebooks)    
   [Repositorio de proyectos](#repositorio-de-proyectos)    
-  [Recursos adicionales](#recursos-adicionales)    
+  [Recursos adicionales](#recursos-adicionales)   
 [Dogma de aprendizaje](#heading-1)
-  [Sub-heading](#sub-heading-1)
-[Código de Ética](#heading-2)
-  [Sub-heading](#sub-heading-2)
+  [Usted](#usted)
+[Código de Ética](#código-de-ética)
+  
 
 
 Este video debe ser escuchado **inmediatamente** [click aquí](https://www.youtube.com/watch?v=H6Cb3oeHjqc&ab_channel=TheSoulflytriber)
@@ -39,4 +39,9 @@ A continuación, una breve descripción de los contenidos aquí alojados:
 ## Repositorio de proyectos
 ## Recursos adicionales
 
+# Dogma de aprendizaje
+ 
+## usted
+
+# Código de ética
 
