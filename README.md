@@ -6,7 +6,7 @@
 
 - [Contenidos del espacio académico](#contenidos-del-espacio-académico)
   * [Sílabo](#sílabo)    
-  * [Guía de Aprendizaje](#guia-de-aprendizaje)    
+  * [Guía de Aprendizaje](#guía-de-aprendizaje)    
   * [Notebooks para las clases](#notebooks)    
   * [Repositorio de proyectos](#repositorio-de-proyectos)    
   * [Recursos adicionales](#recursos-adicionales)    
