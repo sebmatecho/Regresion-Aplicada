@@ -1,4 +1,7 @@
-# Regresión-Aplicada
+# Regresión Aplicada
+
+## Prof. Sébastien Lozano Forero (*slozanof@libertadores.edu.co*)
+
 En este repositorio, se encuentra alojado el material para el curso Regresión Aplicada de la EEAMV de FULL.
 
 A continuación, una breve descripción de los contenidos aquí alojados: 
