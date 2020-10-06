@@ -2,6 +2,8 @@
 
 ## Prof. Sébastien Lozano Forero (*slozanof@libertadores.edu.co*)
 
+Este video debe ser escuchado **inmediatamente** https://www.youtube.com/watch?v=H6Cb3oeHjqc&ab_channel=TheSoulflytriber
+
 En este repositorio, se encuentra alojado el material para el curso Regresión Aplicada de la EEAMV de FULL.
 
 A continuación, una breve descripción de los contenidos aquí alojados: 
