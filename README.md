@@ -4,7 +4,7 @@
 
 ## [Prof. Sébastien Lozano Forero](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/)  (*slozanof@libertadores.edu.co*)
 
-- [Contenidos del espacio académico](#heading)
+- [Contenidos del espacio académico](#Contenidos del espacio académico)
   * [Sílabo](#sub-heading)    
   * [Guía de Aprendizaje](#sub-heading)    
   * [Notebooks para las clases](#sub-heading)    
@@ -25,43 +25,10 @@ En este repositorio, se encuentra alojado el material para el curso Regresión A
 
 A continuación, una breve descripción de los contenidos aquí alojados: 
 
-
+# Contenidos del espacio académico
 
 ## Sílabo
 ## Guía de Aprendizaje
 ## Notebooks
 ## Repositorio de proyectos
 ## Recursos adicionales del espacio
-
-
-# Heading levels
-
-> This is a fixture to test heading levels
-
-<!-- toc -->
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
