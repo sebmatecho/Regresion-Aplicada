@@ -21,9 +21,6 @@ Sean bienvenidos al repositorio oficial de GitHub de la versión 2020-4 del espa
 [Código de Ética](#código-de-ética)
   
 
-
-Este video debe ser escuchado **inmediatamente** [click aquí](https://www.youtube.com/watch?v=H6Cb3oeHjqc&ab_channel=TheSoulflytriber)
-
 Inline-style: 
 ![aquí](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "su madre")
 
