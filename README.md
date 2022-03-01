@@ -1,6 +1,6 @@
 ![alt text >](https://github.com/sebmatecho/Regresion-Aplicada/blob/main/logo.png?raw=true)
 
-# Regresión Aplicada [EEAMV; 2021-4]
+# Regresión Aplicada [EEAMV; 2022-1]
 
 ## [Prof. Sébastien Lozano Forero](https://www.linkedin.com/in/s%C3%A9bastien-lozano-forero-5501476a/)  (*slozanof@libertadores.edu.co*)
 
